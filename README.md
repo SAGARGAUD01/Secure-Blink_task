@@ -1,35 +1,44 @@
-# sb-assignment
+Sure, here's a revised version of your README:
 
-This template should help get you started developing with Vue 3 in Vite.
+---
 
-## Recommended IDE Setup
+# Secure Blink Task
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Develop a Vue 3 app using the provided UI assets and Tailwind CSS. This template is designed to help you get started with Vue 3 in Vite.
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+✈️ [Follow Sagar Gaud](https://www.linkedin.com/in/sagargaud332/)
 
 ## Project Setup
+
+To set up the project, run:
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Development
+
+To compile and enable hot-reloading for development, use:
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Production
+
+To compile and minify the project for production, use:
 
 ```sh
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Linting
+
+To lint the project using [ESLint](https://eslint.org/), run:
 
 ```sh
 npm run lint
 ```
+
+---
